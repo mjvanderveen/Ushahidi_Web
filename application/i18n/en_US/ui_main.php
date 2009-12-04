@@ -57,6 +57,7 @@ $lang = array(
 	'reports_photos' => 'Upload Photos',
 	'reports_btn_browse' => 'Browse',
 	'reports_btn_submit' => 'Submit',
+    'select_one' => 'Please select an item',
 	'password_reset_confirm' => 'Check your e-mail for the new password.',
 	'password_reset_prompt' => 'Enter the e-mail address used for registration:',
 	'alerts_get' => 'Get Alerts',
