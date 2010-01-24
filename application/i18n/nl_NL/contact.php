@@ -33,13 +33,13 @@ $lang = array
 	),
 
 	'form' => array(
-		'your_name' => 'Your name:',
-		'your_email_address' => 'Your email address:',
-		'your_phone_number' => 'Your phone number:',
-		'message_subject' => 'Message subject:',
-		'message' => 'Message:',
-		'security_code' => 'Securitycode',
-		'send_message' => 'Send message'
+		'your_name' => 'Uw naam:',
+		'your_email_address' => 'Uw e-mailadres:',
+		'your_phone_number' => 'Uw telefoonnummer:',
+		'message_subject' => 'Onderwerp van uw bericht:',
+		'message' => 'Uw bericht:',
+		'security_code' => 'Vul onderstaande veiligheidscode in:',
+		'send_message' => 'Bericht versturen',
 	)
 
 );

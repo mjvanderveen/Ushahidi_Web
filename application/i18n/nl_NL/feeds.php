@@ -1,7 +1,7 @@
 <?php
 $lang = array
 (
-	'feeds' => 'Feeds',
+	'feeds' => 'Nieuwsfeeds',
 	'feed_name' => array
 	(
 		'required' => 'Please enter the name of the feed.',

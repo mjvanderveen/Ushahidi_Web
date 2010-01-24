@@ -156,29 +156,29 @@ $lang = array
 	),
 
 	'overview' => array(
-		'reports' => 'Reports',
-		'media' => 'MEDIA',
-		'report_title' => 'TITLE',
-		'date' => 'DATE',
-		'location' => 'LOCATION',
-		'is_verified' => 'VERIFIED?',
-		'yes' => 'YES',
-		'no' => 'NO'
+		'reports' => 'Meldingen',
+		'media' => 'MEDIUM',
+		'report_title' => 'TITEL',
+		'date' => 'DATUM',
+		'location' => 'LOCATIE',
+		'is_verified' => 'BEVESTIGD?',
+		'yes' => 'JA',
+		'no' => 'NEE',
 	),
 
 	'pagination' => array(
-		'showing' => 'Showing',
-		'of' => 'of',
-		'pages_of' => 'pages_of',
-		'report_singular' => 'report',
-		'report_plural'	=> 'reports'
+		'showing' => 'Toont',
+		'of' => 'van',
+		'pages_of' => 'pagina\'s',
+		'report_singular' => 'melding',
+		'report_plural'	=> 'meldingen'
 	),
 
 	'submit' => array(
-		'findtext' => 'City, State and/or Country',
-		'find_location_explanation' => 'If you can\'t find your location, please click on the map to pinpoint the correct location',
-		'refine_location_name' => 'Refine Your Location Name',
-		'refine_examples' => 'Examples: Johannesburg, Corner City Market, 5th Street & 4th Avenue',
-		'find_location' => 'FIND LOCATION'
+		'findtext' => 'Stad, provincie of land',
+		'find_location_explanation' => 'Als u de locatie niet kan vinden, klik dan op de kaart om de juiste locatie te selecteren',
+		'refine_location_name' => 'Verfijn uw locatie',
+		'refine_examples' => 'Bijvoorbeeld: Utrecht, Neude 15',
+		'find_location' => 'ZOEK LOCATIE'
 	)
 );
